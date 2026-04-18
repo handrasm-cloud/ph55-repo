@@ -1,0 +1,5 @@
+
+> @repo/ui@0.0.0-ph55.1 typecheck C:\PH55_REPO\packages\ui
+> node ../../scripts/placeholders/typecheck-package.mjs ui
+
+Placeholder typecheck for package: ui

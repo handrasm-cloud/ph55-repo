@@ -1,0 +1,5 @@
+
+> @repo/web@0.0.0-ph55.1 build C:\PH55_REPO\apps\web
+> node ../../scripts/placeholders/build-app.mjs web
+
+Placeholder build for app: web

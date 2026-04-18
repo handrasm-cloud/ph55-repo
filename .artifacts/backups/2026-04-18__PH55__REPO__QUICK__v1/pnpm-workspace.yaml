@@ -1,0 +1,20 @@
+packages:
+  - "apps/*"
+  - "packages/*"
+  - "tooling/*"
+
+onlyBuiltDependencies:
+  - esbuild
+  - sharp
+
+catalog:
+  typescript: ^5.9.0
+  turbo: ^2.9.0
+  "@types/node": ^24.0.0
+
+nodeLinker: isolated
+gitChecks: true
+preferWorkspacePackages: true
+sharedWorkspaceLockfile: true
+saveWorkspaceProtocol: rolling
+strictPeerDependencies: false

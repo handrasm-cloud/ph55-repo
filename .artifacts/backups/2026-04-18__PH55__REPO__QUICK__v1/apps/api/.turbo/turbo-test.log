@@ -1,0 +1,5 @@
+
+> @repo/api@0.0.0-ph55.1 test C:\PH55_REPO\apps\api
+> node ../../scripts/placeholders/test-app.mjs api
+
+Placeholder test for app: api

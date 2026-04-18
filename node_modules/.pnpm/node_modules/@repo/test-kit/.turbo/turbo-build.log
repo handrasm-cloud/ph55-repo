@@ -1,0 +1,5 @@
+
+> @repo/test-kit@0.0.0-ph55.1 build C:\PH55_REPO\packages\test-kit
+> node ../../scripts/placeholders/build-package.mjs test-kit
+
+Placeholder build for package: test-kit

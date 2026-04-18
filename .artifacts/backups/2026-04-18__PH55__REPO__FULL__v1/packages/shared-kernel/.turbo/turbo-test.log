@@ -1,0 +1,5 @@
+
+> @repo/shared-kernel@0.0.0-ph55.1 test C:\PH55_REPO\packages\shared-kernel
+> node ../../scripts/placeholders/test-package.mjs shared-kernel
+
+Placeholder test for package: shared-kernel

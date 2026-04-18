@@ -1,0 +1,5 @@
+
+> @repo/ui@0.0.0-ph55.1 lint C:\PH55_REPO\packages\ui
+> node ../../scripts/placeholders/lint-package.mjs ui
+
+Placeholder lint for package: ui

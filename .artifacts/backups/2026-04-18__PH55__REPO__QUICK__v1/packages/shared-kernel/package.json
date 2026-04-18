@@ -1,0 +1,13 @@
+{
+  "name": "@repo/shared-kernel",
+  "private": true,
+  "version": "0.0.0-ph55.1",
+  "type": "module",
+  "scripts": {
+    "build": "node ../../scripts/placeholders/build-package.mjs shared-kernel",
+    "lint": "node ../../scripts/placeholders/lint-package.mjs shared-kernel",
+    "typecheck": "node ../../scripts/placeholders/typecheck-package.mjs shared-kernel",
+    "test": "node ../../scripts/placeholders/test-package.mjs shared-kernel",
+    "clean": "node ../../scripts/placeholders/clean-package.mjs shared-kernel"
+  }
+}

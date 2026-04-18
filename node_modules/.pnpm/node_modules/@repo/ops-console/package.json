@@ -1,0 +1,15 @@
+{
+  "name": "@repo/ops-console",
+  "private": true,
+  "version": "0.0.0-ph55.1",
+  "type": "module",
+  "scripts": {
+    "dev": "node ./src/app/dev-entry.mjs",
+    "build": "node ../../scripts/placeholders/build-app.mjs ops-console",
+    "start": "node ./src/app/dev-entry.mjs",
+    "lint": "node ../../scripts/placeholders/lint-app.mjs ops-console",
+    "typecheck": "node ../../scripts/placeholders/typecheck-app.mjs ops-console",
+    "test": "node ../../scripts/placeholders/test-app.mjs ops-console",
+    "clean": "node ../../scripts/placeholders/clean-app.mjs ops-console"
+  }
+}

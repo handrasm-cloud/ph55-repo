@@ -1,0 +1,5 @@
+
+> @repo/ui@0.0.0-ph55.1 test C:\PH55_REPO\packages\ui
+> node ../../scripts/placeholders/test-package.mjs ui
+
+Placeholder test for package: ui

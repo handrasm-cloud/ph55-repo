@@ -1,0 +1,5 @@
+
+> @repo/contracts@0.0.0-ph55.1 build C:\PH55_REPO\packages\contracts
+> node ../../scripts/placeholders/build-package.mjs contracts
+
+Placeholder build for package: contracts

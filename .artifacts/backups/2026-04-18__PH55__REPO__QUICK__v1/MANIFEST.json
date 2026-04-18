@@ -1,0 +1,27 @@
+{
+  "phase": "PH55",
+  "foundation": "PH54_FROZEN",
+  "mode": "append-only",
+  "kind": "QUICK",
+  "version": "v1",
+  "generatedAt": "2026-04-18T06:40:15.797Z",
+  "includes": [
+    "package.json",
+    "pnpm-workspace.yaml",
+    "turbo.json",
+    "tsconfig.base.json",
+    "tsconfig.json",
+    "apps",
+    "packages",
+    "scripts",
+    "tooling",
+    ".github",
+    ".vscode",
+    ".env.example",
+    ".env.ci.example",
+    ".env.release.example"
+  ],
+  "notes": [
+    "PH55 append-only quick snapshot"
+  ]
+}

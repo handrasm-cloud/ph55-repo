@@ -1,0 +1,5 @@
+
+> @repo/contracts@0.0.0-ph55.1 lint C:\PH55_REPO\packages\contracts
+> node ../../scripts/placeholders/lint-package.mjs contracts
+
+Placeholder lint for package: contracts

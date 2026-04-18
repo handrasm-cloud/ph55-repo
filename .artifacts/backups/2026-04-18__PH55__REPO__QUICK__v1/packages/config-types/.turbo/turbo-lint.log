@@ -1,0 +1,5 @@
+
+> @repo/config-types@0.0.0-ph55.1 lint C:\PH55_REPO\packages\config-types
+> node ../../scripts/placeholders/lint-package.mjs config-types
+
+Placeholder lint for package: config-types

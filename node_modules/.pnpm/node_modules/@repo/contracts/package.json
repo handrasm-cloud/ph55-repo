@@ -1,0 +1,13 @@
+{
+  "name": "@repo/contracts",
+  "private": true,
+  "version": "0.0.0-ph55.1",
+  "type": "module",
+  "scripts": {
+    "build": "node ../../scripts/placeholders/build-package.mjs contracts",
+    "lint": "node ../../scripts/placeholders/lint-package.mjs contracts",
+    "typecheck": "node ../../scripts/placeholders/typecheck-package.mjs contracts",
+    "test": "node ../../scripts/placeholders/test-package.mjs contracts",
+    "clean": "node ../../scripts/placeholders/clean-package.mjs contracts"
+  }
+}

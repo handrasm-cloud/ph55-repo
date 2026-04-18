@@ -1,0 +1,5 @@
+
+> @repo/contracts@0.0.0-ph55.1 test C:\PH55_REPO\packages\contracts
+> node ../../scripts/placeholders/test-package.mjs contracts
+
+Placeholder test for package: contracts

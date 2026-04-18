@@ -1,0 +1,5 @@
+
+> @repo/api@0.0.0-ph55.1 build C:\PH55_REPO\apps\api
+> node ../../scripts/placeholders/build-app.mjs api
+
+Placeholder build for app: api

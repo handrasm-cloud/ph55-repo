@@ -1,0 +1,5 @@
+
+> @repo/test-kit@0.0.0-ph55.1 lint C:\PH55_REPO\packages\test-kit
+> node ../../scripts/placeholders/lint-package.mjs test-kit
+
+Placeholder lint for package: test-kit

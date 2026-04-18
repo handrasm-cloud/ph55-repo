@@ -1,0 +1,15 @@
+{
+  "name": "@repo/web",
+  "private": true,
+  "version": "0.0.0-ph55.1",
+  "type": "module",
+  "scripts": {
+    "dev": "node ./src/app/dev-entry.mjs",
+    "build": "node ../../scripts/placeholders/build-app.mjs web",
+    "start": "node ./src/app/dev-entry.mjs",
+    "lint": "node ../../scripts/placeholders/lint-app.mjs web",
+    "typecheck": "node ../../scripts/placeholders/typecheck-app.mjs web",
+    "test": "node ../../scripts/placeholders/test-app.mjs web",
+    "clean": "node ../../scripts/placeholders/clean-app.mjs web"
+  }
+}

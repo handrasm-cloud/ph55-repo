@@ -1,0 +1,5 @@
+
+> @repo/ui@0.0.0-ph55.1 build C:\PH55_REPO\packages\ui
+> node ../../scripts/placeholders/build-package.mjs ui
+
+Placeholder build for package: ui

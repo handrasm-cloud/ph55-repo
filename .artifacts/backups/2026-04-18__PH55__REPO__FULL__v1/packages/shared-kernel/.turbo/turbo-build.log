@@ -1,0 +1,5 @@
+
+> @repo/shared-kernel@0.0.0-ph55.1 build C:\PH55_REPO\packages\shared-kernel
+> node ../../scripts/placeholders/build-package.mjs shared-kernel
+
+Placeholder build for package: shared-kernel

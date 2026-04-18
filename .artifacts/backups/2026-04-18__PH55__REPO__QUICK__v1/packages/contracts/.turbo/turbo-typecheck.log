@@ -1,0 +1,5 @@
+
+> @repo/contracts@0.0.0-ph55.1 typecheck C:\PH55_REPO\packages\contracts
+> node ../../scripts/placeholders/typecheck-package.mjs contracts
+
+Placeholder typecheck for package: contracts

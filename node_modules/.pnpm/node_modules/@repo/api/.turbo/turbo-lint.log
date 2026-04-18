@@ -1,0 +1,5 @@
+
+> @repo/api@0.0.0-ph55.1 lint C:\PH55_REPO\apps\api
+> node ../../scripts/placeholders/lint-app.mjs api
+
+Placeholder lint for app: api

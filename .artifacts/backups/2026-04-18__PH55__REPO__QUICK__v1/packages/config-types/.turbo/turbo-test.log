@@ -1,0 +1,5 @@
+
+> @repo/config-types@0.0.0-ph55.1 test C:\PH55_REPO\packages\config-types
+> node ../../scripts/placeholders/test-package.mjs config-types
+
+Placeholder test for package: config-types

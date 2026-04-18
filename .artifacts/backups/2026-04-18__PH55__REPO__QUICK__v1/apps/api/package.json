@@ -1,0 +1,15 @@
+{
+  "name": "@repo/api",
+  "private": true,
+  "version": "0.0.0-ph55.1",
+  "type": "module",
+  "scripts": {
+    "dev": "node ./src/dev-entry.mjs",
+    "build": "node ../../scripts/placeholders/build-app.mjs api",
+    "start": "node ./src/dev-entry.mjs",
+    "lint": "node ../../scripts/placeholders/lint-app.mjs api",
+    "typecheck": "node ../../scripts/placeholders/typecheck-app.mjs api",
+    "test": "node ../../scripts/placeholders/test-app.mjs api",
+    "clean": "node ../../scripts/placeholders/clean-app.mjs api"
+  }
+}

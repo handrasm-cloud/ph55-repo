@@ -1,0 +1,13 @@
+{
+  "name": "@repo/ui",
+  "private": true,
+  "version": "0.0.0-ph55.1",
+  "type": "module",
+  "scripts": {
+    "build": "node ../../scripts/placeholders/build-package.mjs ui",
+    "lint": "node ../../scripts/placeholders/lint-package.mjs ui",
+    "typecheck": "node ../../scripts/placeholders/typecheck-package.mjs ui",
+    "test": "node ../../scripts/placeholders/test-package.mjs ui",
+    "clean": "node ../../scripts/placeholders/clean-package.mjs ui"
+  }
+}

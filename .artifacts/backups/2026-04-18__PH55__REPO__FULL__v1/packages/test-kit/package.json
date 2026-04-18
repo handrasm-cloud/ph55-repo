@@ -1,0 +1,13 @@
+{
+  "name": "@repo/test-kit",
+  "private": true,
+  "version": "0.0.0-ph55.1",
+  "type": "module",
+  "scripts": {
+    "build": "node ../../scripts/placeholders/build-package.mjs test-kit",
+    "lint": "node ../../scripts/placeholders/lint-package.mjs test-kit",
+    "typecheck": "node ../../scripts/placeholders/typecheck-package.mjs test-kit",
+    "test": "node ../../scripts/placeholders/test-package.mjs test-kit",
+    "clean": "node ../../scripts/placeholders/clean-package.mjs test-kit"
+  }
+}

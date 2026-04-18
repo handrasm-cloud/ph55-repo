@@ -1,0 +1,5 @@
+
+> @repo/ops-console@0.0.0-ph55.1 lint C:\PH55_REPO\apps\ops-console
+> node ../../scripts/placeholders/lint-app.mjs ops-console
+
+Placeholder lint for app: ops-console
